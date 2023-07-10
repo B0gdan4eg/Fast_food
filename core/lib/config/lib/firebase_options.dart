@@ -50,20 +50,21 @@ class DefaultFirebaseOptions {
   }
 
   static const FirebaseOptions android = FirebaseOptions(
-    apiKey: 'AIzaSyCrGWrUIB4JCAWLScgalsrPd7V1503meHs',
-    appId: '1:1091283212597:android:67333d34706797302e547c',
-    messagingSenderId: '1091283212597',
-    projectId: 'fast-food-a0b1d',
-    storageBucket: 'fast-food-a0b1d.appspot.com',
+    apiKey: 'AIzaSyAesGgRNQA6ktRu8EsyaHtXsculp2tXvgM',
+    appId: '1:79400038644:android:6006f77de6b12a8f026ea1',
+    messagingSenderId: '79400038644',
+    projectId: 'fast-food-9511d',
+    storageBucket: 'fast-food-9511d.appspot.com',
   );
 
   static const FirebaseOptions ios = FirebaseOptions(
-    apiKey: 'AIzaSyBV-uWghoBB-b-Qq0u-PYSeRAqiz5IIFpc',
-    appId: '1:1091283212597:ios:e200b62d7c80f1432e547c',
-    messagingSenderId: '1091283212597',
-    projectId: 'fast-food-a0b1d',
-    storageBucket: 'fast-food-a0b1d.appspot.com',
-    iosClientId: '1091283212597-f2ldlu34miu7tiv1mkpolbhpvlc9u24m.apps.googleusercontent.com',
+    apiKey: 'AIzaSyApM7RgdEk4ChQyL1fJBbmrJNBh-ign6yk',
+    appId: '1:79400038644:ios:795119d30331c545026ea1',
+    messagingSenderId: '79400038644',
+    projectId: 'fast-food-9511d',
+    storageBucket: 'fast-food-9511d.appspot.com',
+    iosClientId:
+        '79400038644-tjibngf25tg3crdn7qhjovmt4jjc7vv9.apps.googleusercontent.com',
     iosBundleId: 'com.shcherbakov.fastFood',
   );
 }

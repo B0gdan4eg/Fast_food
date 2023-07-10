@@ -1,62 +1,33 @@
 {
   "project_info": {
-    "project_number": "1091283212597",
-    "project_id": "fast-food-a0b1d",
-    "storage_bucket": "fast-food-a0b1d.appspot.com"
+    "project_number": "79400038644",
+    "project_id": "fast-food-9511d",
+    "storage_bucket": "fast-food-9511d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1091283212597:android:67333d34706797302e547c",
+        "mobilesdk_app_id": "1:79400038644:android:6006f77de6b12a8f026ea1",
         "android_client_info": {
           "package_name": "com.shcherbakov.fast_food"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1091283212597-kc5vt1tldmo4dl7fg3lcv71k26615h79.apps.googleusercontent.com",
+          "client_id": "79400038644-obbstgjefrgk6er3668mtci7v4i0nhrj.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyCrGWrUIB4JCAWLScgalsrPd7V1503meHs"
+          "current_key": "AIzaSyAesGgRNQA6ktRu8EsyaHtXsculp2tXvgM"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1091283212597-kc5vt1tldmo4dl7fg3lcv71k26615h79.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
-        }
-      }
-    },
-    {
-      "client_info": {
-        "mobilesdk_app_id": "1:1091283212597:android:6b617e5b44b5d8952e547c",
-        "android_client_info": {
-          "package_name": "com.shcherbakov.fast_food.data"
-        }
-      },
-      "oauth_client": [
-        {
-          "client_id": "1091283212597-kc5vt1tldmo4dl7fg3lcv71k26615h79.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
-      "api_key": [
-        {
-          "current_key": "AIzaSyCrGWrUIB4JCAWLScgalsrPd7V1503meHs"
-        }
-      ],
-      "services": {
-        "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "1091283212597-kc5vt1tldmo4dl7fg3lcv71k26615h79.apps.googleusercontent.com",
+              "client_id": "79400038644-obbstgjefrgk6er3668mtci7v4i0nhrj.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
